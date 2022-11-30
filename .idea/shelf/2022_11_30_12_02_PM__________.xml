@@ -1,0 +1,114 @@
+<changelist name="2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]" date="1669777327146" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/shelved.patch" />
+  <option name="DESCRIPTION" value="2022/11/30 12:02 PM, 업데이트 전에 커밋되지 않은 변경 내용 [변경]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/next-swc.darwin-arm64.node" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/client-development/0.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/0.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/webp/webp_node_dec.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/webp_node_dec.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/png/squoosh_oxipng_bg.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/squoosh_oxipng_bg.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/rotate/rotate.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/rotate.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-development/index.pack.old" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/index.pack.old" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-production/0.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/01.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/compiled/@next/react-dev-overlay/dist/mappings.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/mappings.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/client-production/index.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/index.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/mozjpeg/mozjpeg_node_dec.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/mozjpeg_node_dec.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/webp/webp_node_enc.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/webp_node_enc.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/client-production/0.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/02.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-development/1.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/1.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/avif/avif_node_dec.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/avif_node_dec.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/mozjpeg/mozjpeg_node_enc.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/mozjpeg_node_enc.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/png/squoosh_png_bg.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/squoosh_png_bg.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-development/index.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/index1.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-production/index.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/index2.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/resize/squoosh_resize_bg.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/squoosh_resize_bg.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/client-development/index.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/index3.pack" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="node_modules/next/dist/server/lib/squoosh/avif/avif_node_enc.wasm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/avif_node_enc.wasm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value=".next/cache/webpack/server-development/0.pack" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/2022_11_30_12_02_PM,_업데이트_전에_커밋되지_않은_변경_내용_[변경]/03.pack" />
+  </binary>
+</changelist>
