@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21e3c1c-3f9d-4f37-9622-14c7c3e56f2f" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/blog/[slug].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/first-post.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/dashboard/settings/usename.tsx" afterDir="false" />
+    <list default="true" id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/[username]/settings.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/post/[...all].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/first-post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/first-post.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,9 @@
         <option value="TypeScript JSX File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,8 +54,10 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/sunkikim/Front_end/nextjs",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "/Users/sunkikim/Front_end/nextjs/node_modules/prettier",
@@ -59,9 +65,21 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "/Users/sunkikim/Front_end/nextjs/node_modules/typescript/lib"
+    "ts.external.directory.path": "/Users/sunkikim/Front_end/nextjs/nextjs/node_modules/typescript/lib"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
