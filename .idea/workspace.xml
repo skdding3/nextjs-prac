@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/[username]/settings.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/post/[...all].tsx" afterDir="false" />
+    <list default="true" id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="NextJS // statics Routing Dynamic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/first-post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/first-post.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/[username]/settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[username]/settings.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/[slug].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/[slug].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/first-post.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/dashboard/settings/usename.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/dashboard/settings/username.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/post/[...all].tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +94,14 @@
       <updated>1669773102806</updated>
       <workItem from="1669773103922" duration="3572000" />
     </task>
+    <task id="LOCAL-00001" summary="NextJS // statics Routing Dynamic">
+      <created>1669894140436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669894140436</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +117,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NextJS // statics Routing Dynamic" />
+    <option name="LAST_COMMIT_MESSAGE" value="NextJS // statics Routing Dynamic" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/pages/index.tsx</url>
+          <line>13</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
