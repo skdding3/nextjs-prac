@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="NextJS // statics Routing Dynamic">
+    <list default="true" id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="NextJS // 변경점 커밋">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/[username]/settings.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/[username]/settings.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/[slug].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/[slug].tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/first-post.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/dashboard/settings/usename.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/dashboard/settings/username.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/post/[...all].tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/sunkikim/Front_end/nextjs",
+    "last_opened_file_path": "/Users/sunkikim/Front_end/nextjs/nextjs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,12 +78,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="c21e3c1c-3f9d-4f37-9622-14c7c3e56f2f" name="변경" comment="" />
+      <changelist id="e8cf45bd-3e39-4836-a1e7-c62c12601191" name="변경" comment="NextJS // 변경점 커밋" />
       <created>1669773102806</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669773102806</updated>
       <workItem from="1669773103922" duration="3572000" />
+      <workItem from="1670919047294" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="NextJS // statics Routing Dynamic">
       <created>1669894140436</created>
@@ -101,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669894140436</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NextJS // 변경점 커밋">
+      <created>1670079388816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670079388816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,15 +119,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NextJS // statics Routing Dynamic" />
-    <option name="LAST_COMMIT_MESSAGE" value="NextJS // statics Routing Dynamic" />
+    <MESSAGE value="NextJS // 변경점 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="NextJS // 변경점 커밋" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/pages/index.tsx</url>
-          <line>13</line>
-          <properties lambdaOrdinal="-1" />
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
